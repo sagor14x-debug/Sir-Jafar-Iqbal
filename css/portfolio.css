@@ -1,3 +1,7 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
 #bannar{
     margin: 47px 38px 0 230px;
     display: flex;
